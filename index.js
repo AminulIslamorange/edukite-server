@@ -21,7 +21,23 @@ app.get('/api/course/:id' , (req , res)=>{
     let course = courses.find(perCourse => perCourse.id == id )
     res.send(course)
  })
+ 
+// get all categories
+app.get('/api/allcategories' , (req , res)=>{
+   let categories = [];
+   for (var i=0; i < courses.length ; ++i)
+   categories.push(courses[i].category);
+   const uniqueArray = categories.filter((value, index) => {
+    const _value = JSON.stringify(value);
+    return index === categories.findIndex(obj => {
+      return JSON.stringify(obj) === _value;
+    });
+  });
+    res.send(uniqueArray)
+ })
+
+
 
 app.listen(Port , ()=>{
-    console.log(`Serbver is Running on : ${Port}`);
+    console.log(`Server is Running on : ${Port}`);
 })
