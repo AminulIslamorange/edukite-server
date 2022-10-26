@@ -21,7 +21,7 @@ app.get('/api/course/:id' , (req , res)=>{
     let course = courses.find(perCourse => perCourse.id == id )
     res.send(course)
  })
- 
+
 // get all categories
 app.get('/api/allcategories' , (req , res)=>{
    let categories = [];
@@ -34,6 +34,14 @@ app.get('/api/allcategories' , (req , res)=>{
     });
   });
     res.send(uniqueArray)
+ })
+
+//  get course by category 
+
+app.get('/api/courses/:category' , (req , res)=>{
+    let {category} = req.params
+    let filteredCourses = courses.filter(perCourse => perCourse.category == category )
+    res.send(filteredCourses)
  })
 
 
