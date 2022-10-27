@@ -49,3 +49,5 @@ app.get('/api/courses/:category' , (req , res)=>{
 app.listen(Port , ()=>{
     console.log(`Server is Running on : ${Port}`);
 })
+
+module.exports = app;

@@ -4,6 +4,7 @@
       "courseTitle" : "Javascript Mastary by Jhon Clive",
       "category" : "Programming",
       "duration" : "8",
+      "description" : "Javascript Mastary by Jhon Clive a great way for business owners and entrepreneurs to showcase their business, gain visibility in their market, and attract more clients. This marketing strategy works when you use it consistently and when done right it is guaranteed to grow your business fast. The course is designed with well-organized evaluation processes following the proper rules. You will have to sit for an automated test which is mainly multiple question/assignment based. These tests are designed to enrich your proficiency, so there are multiple chances of retaking the tests without the fear of an extra payment! You can learn, evaluate and get the certification steadily. You will be awarded a certificate upon completion of the course. We will send you an E-certificate, print it out, and use it as long as you want. If you look for a hard copy, we will send you it, an extra charge will be applied. Javascript Mastary by Jhon Clive a great way for business owners and entrepreneurs to showcase their business, gain visibility in their market, and attract more clients. This marketing strategy works when you use it consistently and when done right it is guaranteed to grow your business fast. The course is designed with well-organized evaluation processes following the proper rules. You will have to sit for an automated test which is mainly multiple question/assignment based. These tests are designed to enrich your proficiency, so there are multiple chances of retaking the tests without the fear of an extra payment! You can learn, evaluate and get the certification steadily. You will be awarded a certificate upon completion of the course. We will send you an E-certificate, print it out, and use it as long as you want. If you look for a hard copy, we will send you it, an extra charge will be applied.",
       "students" : "10",
       "image" : "https://img-b.udemycdn.com/course/240x135/2508942_11d3_3.jpg"
     },
@@ -12,6 +13,7 @@
       "courseTitle" : "Complete Javascript Course with Hero Js Team ",
       "category" : "Programming",
       "duration" : "6",
+      "description" : "Javascript Mastary by Jhon Clive a great way for business owners and entrepreneurs to showcase their business, gain visibility in their market, and attract more clients. This marketing strategy works when you use it consistently and when done right it is guaranteed to grow your business fast. The course is designed with well-organized evaluation processes following the proper rules. You will have to sit for an automated test which is mainly multiple question/assignment based. These tests are designed to enrich your proficiency, so there are multiple chances of retaking the tests without the fear of an extra payment! You can learn, evaluate and get the certification steadily. You will be awarded a certificate upon completion of the course. We will send you an E-certificate, print it out, and use it as long as you want. If you look for a hard copy, we will send you it, an extra charge will be applied. Javascript Mastary by Jhon Clive a great way for business owners and entrepreneurs to showcase their business, gain visibility in their market, and attract more clients. This marketing strategy works when you use it consistently and when done right it is guaranteed to grow your business fast. The course is designed with well-organized evaluation processes following the proper rules. You will have to sit for an automated test which is mainly multiple question/assignment based. These tests are designed to enrich your proficiency, so there are multiple chances of retaking the tests without the fear of an extra payment! You can learn, evaluate and get the certification steadily. You will be awarded a certificate upon completion of the course. We will send you an E-certificate, print it out, and use it as long as you want. If you look for a hard copy, we will send you it, an extra charge will be applied.",
       "students" : "10",
       "image" : "https://img-c.udemycdn.com/course/240x135/851712_fc61_6.jpg"
     },
@@ -19,7 +21,8 @@
       "id" : "3" , 
       "courseTitle" : "Health and Care Course For Adult",
       "category" : "Health & Care",
-      "duration" : "3",
+      "duration" : "3", "lectures" : "24",
+      "description" : "We work to ensure your M.S. in Global Health is affordable through generous financial aid and funding for field experiences.Our graduates enjoy strong career prospects, including paths in academic research, policy and health practice. Of those who have pursued career tracks, 82% are working in jobs directly related to global health.Our graduates enjoy strong career prospects, including paths in academic research, policy and health practice. Of those who have pursued career tracks, 82% are working in jobs directly related to global health.",
       "students" : "10",
       "image" : "https://img-b.udemycdn.com/course/240x135/4149766_4602.jpg"
     },
@@ -27,25 +30,30 @@
       "id" : "4" , 
       "courseTitle" : "Pet Care Course by Jhon Chilton",
       "category" : "Health & Care",
-      "duration" : "3",
+      "duration" : "3", "lectures" : "24",
+      "description" : "Hello, my name is Jhon Chilton, I have worked with dogs for over 15years now. My passion and knowledge for dogs and their well-being has developed over time with the help from some of the best pet groomers, nutritionists, behaviourists, trainers, specialists and of course all the dogs I am lucky enough to work with. My goal is to provide my clients and help as many people and their dogs with the knowledge and skills I have gained over the years. Hoping to spread more happy, healthy well balanced fur babies and their humans.",
       "students" : "10",
-      "image" : "https://img-b.udemycdn.com/course/240x135/4149766_4602.jpg"
+      "image" : "https://img-c.udemycdn.com/course/240x135/2219358_4621.jpg"
     },
     {
       "id" : "5" , 
       "courseTitle" : "Complete Resume Writing Course",
       "category" : "IT & Software",
       "duration" : "8",
+      "description" : "Writing a résumé can be frustrating, especially if you do not know where to start. We have designed this free online course to teach you how to develop a professional résumé that will help you sell yourself so that you can obtain your dream job. We provide different templates to help you build your résumé . Then you will learn how to set your own goals and discover professional tips to ensure a successful job interview. ",
       "students" : "10",
       "image" : "https://img-c.udemycdn.com/course/240x135/16429_c92e_5.jpg"
     },
     {
       "id" : "6" , 
-      "courseTitle" : "How To Work Fiber ",
+      "courseTitle" : "How To Work Fiber , Complete Fiber Mastery Course ",
       "category" : "IT & Software",
-      "duration" : "3",
+      "duration" : "3", "lectures" : "24",
+      "description" : "Understanding Optical Sources in Fiber-Optic Communication is an exciting course that introduces you to the multiple processes involved in optical communication. The different internal operations that take place in the fiber-optic cable that makes communication so seamless will be revealed. Additionally, you will learn what makes LEDs and laser diodes a preferred choice over other optical sources.",
       "students" : "10",
       "image" : "https://img-c.udemycdn.com/course/240x135/22591_b568_6.jpg"
     }
   
   ]
+
+ 
