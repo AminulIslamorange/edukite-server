@@ -6,7 +6,7 @@ const Port = process.env.Port || 5000;
 
 const courses = require('./Data/data.json')
 // Main Path
-app.get('/api' , (req , res)=>{
+app.get('/' , (req , res)=>{
    res.send("Welcome To Edukite Server")
 })
 
@@ -50,4 +50,3 @@ app.listen(Port , ()=>{
     console.log(`Server is Running on : ${Port}`);
 })
 
-module.exports = app;
